@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Unwana Michael</h1>
+<h2 align="center">Hi 👋, I'm Unwana Michael</h2>
 <h3 align="center">A passionate frontend developer from Nigeria.</h3>
 
 - 🔭 I’m currently working on a **Fintech web application.**
@@ -12,8 +12,7 @@
 - 📫 How to reach me **Unwanamichael2642@gmail.com**
 
 - ⚡ Fun fact **I am a good gamer.**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
