@@ -3,14 +3,13 @@
 
 - 🔭 I’m currently working on a **Fintech web application.**
 
-- 🌱 I’m currently learning **Typescript,
+- 🌱 I’m currently learning **Typescript, Mobile development.
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **Unwanamichael2642@gmail.com**
 
 - ⚡ Fun fact **I am a good gamer.**
-- 
 <p align="left">
 </p>
 
