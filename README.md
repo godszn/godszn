@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on a **Fintech web application.**
 
-- 🌱 I’m currently learning **Typescript, NodeJS**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-godszn.vercel.app](https://portfolio-godszn.vercel.app)
+- 🌱 I’m currently learning **Typescript,
 
 - 💬 Ask me about **React**
 
