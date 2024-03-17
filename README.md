@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Annabelle James</h2>
+<h2 align="center">Hi 👋, I'm Unwana Michael</h2>
 <h3 align="center">A passionate frontend developer from Nigeria.</h3>
 
 - 🔭 I’m currently working on a **Fintech web application.**
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **jessicajohansen08@gmail.com**
+- 📫 How to reach me **Unwanamichael2642@gmail.com**
 
 - ⚡ Fun fact **I am a good gamer.**
 <p align="left">
